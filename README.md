@@ -74,8 +74,11 @@ npm run dev        # starts server + client
 - Average salary by department (Bar chart)
 - Monthly hiring trend (Area chart)
 
+Screenshot
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/4e30b334-948a-4b93-97a4-087a0935e261" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/0012c26f-7784-4767-a9ad-4bfec68b28c9" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/4f228111-2559-4149-9819-763d50f348d5" />
 ---
-
 ## Project Structure
 
 ```
@@ -130,7 +133,6 @@ JWT_SECRET=your-super-secret-key
 JWT_EXPIRES_IN=7d
 CLIENT_URL=http://localhost:5173
 ```
-
 ### Client (`client/.env`)
 ```
 VITE_API_URL=http://localhost:5000/api
