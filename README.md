@@ -75,9 +75,9 @@ npm run dev        # starts server + client
 - Monthly hiring trend (Area chart)
 
 Screenshot
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/4e30b334-948a-4b93-97a4-087a0935e261" />
-<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/0012c26f-7784-4767-a9ad-4bfec68b28c9" />
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/4f228111-2559-4149-9819-763d50f348d5" />
+<img width="1920" height="680" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/f55aad2b-c4de-4755-b1c8-5868b4bdf456" />
+<img width="1908" height="905" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/0458fca2-087d-4db2-aadc-8daef14b9204" />
+<img width="1920" height="979" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/58def397-47e8-4aaf-a2cd-9938a79552d2" />
 ---
 ## Project Structure
 
